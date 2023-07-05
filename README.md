@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm derhoppelhase</h1>
 <h3 align="center">A Dumm guy that things he can write code lmao</h3>
 
-- 🔭 I’m currently working on **CC**
+- 🔭 I’m currently working on **Schinkelbooks**
 
 - 🌱 I’m currently learning **Nothing**
 
